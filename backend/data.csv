@@ -1,0 +1,5 @@
+patient_id,liver_enzyme,status
+001,45,Normal
+002,120,High
+003,98,High
+004,30,Normal
